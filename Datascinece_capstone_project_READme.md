@@ -24,6 +24,9 @@ This project analyses the Northwind database to explore sales data, identify key
 4. Time Series Forecasting Models
 5. Dashboard and Report Creation
 6. Final Presentation & Recommendations
+## Below is the secreenshot of my powerbi visualization
+![Dashboard preview](screenshot/screenshot.png)
+
 
 
 ## Tools used
